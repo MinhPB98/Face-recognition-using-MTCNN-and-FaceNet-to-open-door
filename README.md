@@ -1,5 +1,4 @@
-# Face-Door
-# Using face recognition to open door
+# Face recognition to open door
 # 1. Git clone this github https://github.com/phanbaominh111198/face_cpu
 # 2. Create Dataset 
 Second you will create the folder called " Dataset ", subfolder called"FaceData" ( which is created by yourself too) . There are two sub-folder called "Raw" which is use to save your original image, I mean the image of yourself. And the "Processeed" to use save the image after processing such as align it and crop it into a new size
